@@ -29,7 +29,10 @@ it converts the material-design-icons svg file in the font file, it was easy to 
 ##Installation
 
 ####CocoaPods
-comming soon...
+Add this to your Podfile
+```ruby
+pod 'GoogleMaterialDesignIcons', '~> 1.0'
+```
 
 ####Manually
 Add the `GoogleIcon.swift`, `googleicon.ttf` file to your project.   
